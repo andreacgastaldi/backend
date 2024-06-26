@@ -1,0 +1,378 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"send",
+				"sendMail"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"f",
+				"fun\tfunction …"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/andrea/Downloads/cafeteria22-main/backendGrupal/app.py",
+		"/Applications/XAMPP/xamppfiles/mysql/scripts/ctl.sh",
+		"/Applications/XAMPP/xamppfiles/htdocs/index.php",
+		"/Applications/XAMPP/xamppfiles/phpmyadmin/config.inc.php",
+		"/Applications/XAMPP/xamppfiles/phpmyadmin/index.php",
+		"/Users/andrea/Documents/codoacodo/clase 19/Código/Cocina/tablaIngredientes.js",
+		"/Users/andrea/Documents/python_prg/CursoIntermedio/venv/ejemplo_frame.py",
+		"/Users/andrea/Downloads/modulo.py",
+		"/Users/andrea/Documents/caio_html/index.html",
+		"/Users/andrea/Documents/amueblar piso con poco dinero _ facilisimo.com_files/TweenLite.min.js",
+		"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/curaengine.rb",
+		"/Users/andrea/Library/Application Support/cura/4.8/packages.json",
+		"/Users/andrea/Documents/Proyectos_PHP/partes/navbar.php",
+		"/Users/andrea/Documents/Proyectos_PHP/partes/login.php",
+		"/Users/andrea/Documents/Proyectos_PHP/partes/head.php",
+		"/Users/andrea/Documents/Proyectos_PHP/partes/partes.php",
+		"/Users/andrea/Documents/Proyectos_PHP/partes/index.php",
+		"/Users/andrea/Documents/Proyectos_PHP/partes/classes/Login.php",
+		"/Users/andrea/Documents/Proyectos_PHP/partes/css/miestilo_copia.css",
+		"/Users/andrea/Documents/Proyectos_PHP/partes/css/miestilo.css",
+		"/Users/andrea/Documents/Proyectos_PHP/partes/css/bootstrap.min.css",
+		"/Users/andrea/Documents/Proyectos_PHP/partes/vistas/headers.php",
+		"/Users/andrea/Documents/Proyectos_PHP/partes/vistas/menu.php",
+		"/Users/andrea/Documents/Proyectos_PHP/partes/controller/partes.php",
+		"/Users/andrea/Documents/Proyectos_PHP/partes/routes.php",
+		"/Users/andrea/Documents/Proyectos_PHP/partes/config.php",
+		"/Users/andrea/Documents/Proyectos_PHP/partes/models/menuitems.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/controller/micodigo.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/vistas/menu.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/models/menuitems.php",
+		"/Users/andrea/Documents/Proyectos_PHP/partes/nuevo_parte.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/unidad4/ejemplos modulo 2_4/prepare.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/css/miestilo.css",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/vistas/formulario.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/vistas/plantilla_articulo.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/vistas/articulo.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/vistas/headers.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/vistas/form_email.php",
+		"/Users/andrea/Documents/Proyectos_PHP/formulario/estilo_form.css",
+		"/Users/andrea/Documents/Proyectos_PHP/formulario/formulario.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/controladores/form.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/vistas/formsuccess.php.html",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/micodigo.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/vistas/pie.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/varios/formato_form.html",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/css/custom.css",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/vistas/myform.html",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/vistas/cuerpo_articulo.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/modelos/articulo_model.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/controladores/articulos_plantilla.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/vistas/listado_articulos.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/vistas/detalle_articulo.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/vistas/bienvenido.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/models/micodigo_model.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/controladores/php.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/vistas/login.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/mipagina.html",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/tablausuarios.txt",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/routes.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/menu.html",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/controladores/php2.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/config.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/autoload.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/modelos/usuarios_model.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/vistas/login2.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/vistas/escritorio.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/routes.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/config.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/controladores/articulos_plantilla2.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/vistas/pie.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/vistas/contenido_articulos.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/vistas/cabecera.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/vistas/cuerpo_articulo.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/vistas/plantilla_articulo.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/vistas/muestra_articulo.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/vistas/home.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/controladores/articulos.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/database.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/models/p.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/menu/vistas/menu.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/menu/vistas/custom.css",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/menu/JLoader.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/menu/model/M_jMenuItems.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/menu/core/MY_Controller.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/libraries/Mimenu.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/modelos/empleados_model.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/vistas/form_emp.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/controladores/empleado.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/vistas/empleados_model.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/evaluacion/helpers/mihelper_helper.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/controladores/micontrolador2.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/vistas/mivista2.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/controladores/micontrolador.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/vistas/mivista.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 3/ejemplos/aplicacionarticulos.sql",
+		"/Users/andrea/Downloads/CodeIgniter-3.1.10/application/config/autoload.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 6/ejemplos/Acceso API Youtube V3/yt_v3_json_/imprimir_mostpopular_arg.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 6/evaluacion/ver_mostpopular_arg.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 6/evaluacion/imprimirxml.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 6/evaluacion/verxml.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 6/ejemplos/crearxml/Alumno.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 6/ejemplos/crearxml/crearxml.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 6/ejemplos/crearxml/core.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 6/ejemplos/crearxml/connection.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 6/ejemplos/crearxml/alumnos.sql",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 6/ejemplos/crearxml/Database.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 6/ejemplos/xml-php/imprimirxmlclarin.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 6/ejemplos/xml-php/verxmlclarin.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 6/ejemplos/xml-php/verxmllalumno.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 6/ejemplos/xml-php/imprimirxmlalumno.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 6/ejemplos/xml-php/Alumnos.xml",
+		"/Users/andrea/Downloads/alumnos (1).sql",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 5/ejemplos modulo2 unidad3/abm-con-success-igualABMC/index.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 5/ejemplos modulo2 unidad3/abm-con-success-igualABMC/php-pdo/mostrar.php",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 5/ejemplos modulo2 unidad3/ej1/ajax_lib.js",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 5/ejemplos modulo2 unidad3/ej1/servidor1.htm",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 5/ejemplos modulo2 unidad3/ej1/texto.htm",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 5/ejemplos modulo2 unidad3/ej1/prueba.htm",
+		"/Users/andrea/Documents/PHP_UTN /Material/Modulo 2/Unidad 5/ejemplos modulo2 unidad3/ej1/ej1.htm",
+		"/Users/andrea/Documents/Proyectos_PHP/abm_a/php-pdo/cfg/connection.php",
+		"/Users/andrea/Documents/Proyectos_PHP/abm_a/php-pdo/cfg/core.php",
+		"/Users/andrea/Documents/Proyectos_PHP/abm_a/php-pdo/mostrar.php",
+		"/Users/andrea/Documents/Proyectos_PHP/abm_a/php-pdo/modificar.php",
+		"/Users/andrea/Documents/Proyectos_PHP/abm_a/php-pdo/borrar.php",
+		"/Users/andrea/Documents/Proyectos_PHP/abm_a/php-pdo/guardar.php",
+		"/Users/andrea/Documents/Proyectos_PHP/abm_a/js/abmc.js",
+		"/Users/andrea/Documents/Proyectos_PHP/abm_a/php-pdo/cls/Database.php",
+		"/Users/andrea/Documents/Proyectos_PHP/abm_a/php-pdo/cls/Responsable.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
